@@ -1,0 +1,21 @@
+print("hello world".upper())
+print(len("hello world"))
+
+print("hello world" [-1])
+print("    |    |   ")
+print("    |    |   ")
+print("    |    |   ")
+print("--------------")
+print("    |    |   ")
+print("    |    |   ")
+print("    |    |   ")
+print("--------------")
+print("    |    |   ")
+print("    |    |   ")
+print("    |    |   ")
+print("--------------")
+
+
+print("hello world".replace("hello","goodbye"))
+print("hello worlD".lower())
+print(10==9)
